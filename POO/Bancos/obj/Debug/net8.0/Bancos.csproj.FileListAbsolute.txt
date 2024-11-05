@@ -1,0 +1,15 @@
+C:\Users\45333900809\Desktop\aula-backend\POO\Bancos\bin\Debug\net8.0\Bancos.exe
+C:\Users\45333900809\Desktop\aula-backend\POO\Bancos\bin\Debug\net8.0\Bancos.deps.json
+C:\Users\45333900809\Desktop\aula-backend\POO\Bancos\bin\Debug\net8.0\Bancos.runtimeconfig.json
+C:\Users\45333900809\Desktop\aula-backend\POO\Bancos\bin\Debug\net8.0\Bancos.dll
+C:\Users\45333900809\Desktop\aula-backend\POO\Bancos\bin\Debug\net8.0\Bancos.pdb
+C:\Users\45333900809\Desktop\aula-backend\POO\Bancos\obj\Debug\net8.0\Bancos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45333900809\Desktop\aula-backend\POO\Bancos\obj\Debug\net8.0\Bancos.AssemblyInfoInputs.cache
+C:\Users\45333900809\Desktop\aula-backend\POO\Bancos\obj\Debug\net8.0\Bancos.AssemblyInfo.cs
+C:\Users\45333900809\Desktop\aula-backend\POO\Bancos\obj\Debug\net8.0\Bancos.csproj.CoreCompileInputs.cache
+C:\Users\45333900809\Desktop\aula-backend\POO\Bancos\obj\Debug\net8.0\Bancos.sourcelink.json
+C:\Users\45333900809\Desktop\aula-backend\POO\Bancos\obj\Debug\net8.0\Bancos.dll
+C:\Users\45333900809\Desktop\aula-backend\POO\Bancos\obj\Debug\net8.0\refint\Bancos.dll
+C:\Users\45333900809\Desktop\aula-backend\POO\Bancos\obj\Debug\net8.0\Bancos.pdb
+C:\Users\45333900809\Desktop\aula-backend\POO\Bancos\obj\Debug\net8.0\Bancos.genruntimeconfig.cache
+C:\Users\45333900809\Desktop\aula-backend\POO\Bancos\obj\Debug\net8.0\ref\Bancos.dll
